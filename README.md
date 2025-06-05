@@ -1,5 +1,5 @@
 # Fast, Adaptive Methods for WCSPH
-My PhD thesis titled, "Fast, Adaptive Methods for Weakly-Compressible Smoothed Particle Hydrodynamics", which was defended on May 9th 2023 at Indian Instritute of Technology Bombay.
+My PhD thesis titled, "Fast, Adaptive Methods for Weakly-Compressible Smoothed Particle Hydrodynamics", defended on May 9th 2023 at Indian Institute of Technology Bombay.
 
 The work is almost fully reproducible, please checkout the links below for code that is used in the thesis:
  - https://gitlab.com/pypr/sisph (Chapter 3)
