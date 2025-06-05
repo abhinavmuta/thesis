@@ -4,6 +4,6 @@ My PhD thesis titled, "Fast, Adaptive Methods for Weakly-Compressible Smoothed P
 The work is almost fully reproducible, please checkout the links below for code that is used in the thesis:
  - https://gitlab.com/pypr/sisph (Chapter 3)
  - https://gitlab.com/pypr/dtsph (Chapter 4)
- - https://gitlab.com/pypr/adaptive_sph (Chapter 5 & 6)
+ - https://gitlab.com/pypr/adaptive_sph and https://gitlab.com/pypr/asph_motion (Chapter 5 & 6)
 
 Cheers!
